@@ -1,1 +1,12 @@
+![photocodelogo](https://raw.githubusercontent.com/nbqofficial/PhotocodeAI/main/logosmall.png?token=GHSAT0AAAAAAB5HSAZ5I6IZQ7KXOE43HJKUZEZIN6A)
 # Photocode
+Using the power of artificial intelligence to explain and debug any source code
+#### Available now on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode)
+
+## About
+**Photocode** is a powerful tool designed to help users understand source code using artificial intelligence. With **Photocode**, you can simply take a photo of the code or select it from your gallery, and the AI ​​will analyze and explain the code to you. **Photocode** can recognize even a handwritten code on a piece of paper. **Photocode** can also help you debug your code and suggest optimizations. It supports more than a dozen popular programming languages ​​and can provide explanations in more than twenty human languages.
+
+You can easily share your code explanations, along with a photo of the code, with your colleagues or friends on various platforms. Additionally, **Photocode** offers a built-in text-to-speech feature that can read explanations to you. The application automatically saves your code analyzes to history, allowing you to review them at any time. The inclusion of bookmarks and smart filtering features makes it easy to navigate through your past entries.
+
+**Photocode** is a valuable tool for individuals who want to learn and understand programming concepts. It serves a wide range of users, including students, professors, developers, project managers, and many others. The application has a modern and elegant design with customizable theme options, which ensures a pleasant user experience.
+
