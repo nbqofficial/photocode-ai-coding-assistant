@@ -1,4 +1,4 @@
-![photocodelogo](https://raw.githubusercontent.com/nbqofficial/PhotocodeAI/main/logosmall.png?token=GHSAT0AAAAAAB5HSAZ5OJ6IC277RQN3NPM2ZEZIVEQ)
+![photocodelogo](https://play-lh.googleusercontent.com/Kue6Rb2qWia7FXfi1I3eCTbCMRjdL6f0Gr__4vJFSAS1GUE603mLZZTHSxB7QydTIvyI=w480-h960-rw)
 # Photocode
 Using the power of artificial intelligence to explain and debug any source code
 #### Available now on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode)
@@ -52,3 +52,12 @@ You can easily share your code explanations, along with a photo of the code, wit
 
 ## Goal
 Think of **Photocode** as your personal programming assistant capable of providing definitive and detailed analysis, debug and offer optimization ideas for any given source code regardless of it's complexity. Using **Photocode** allows the developer to focus entirely on the creative side of things, and letting your AI assistant do all the analysis and optimizations for you. This should greatly increase overall productivity and boost the quality of your code. **Photocode** also allows sharing your code analysis via many popular platforms. This can be very helpful for professors and students, or project managers because it can assist them with teaching and/or checking submitted code. Currently only available on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode), but soon coming to App store as well. If you are interested in this project, show support by downloading and testing the app for yourself. Feel free to leave your honest reviews and suggestions on how to improve the app.
+
+## Screenshots
+![camerass](https://play-lh.googleusercontent.com/zScG21Ol4GBOAhz1TcnGBYAUQOO3M95PGPbRBHHrQdRfpdwmi13y-9AQhbzk6mK2d8E=w1052-h592-rw)
+![cropss](https://play-lh.googleusercontent.com/iDv9yn5l7hKijr2Wl7xWkUe8SaMPXDg_TtHDbxO2HZkCO5bGEYrUtJu7ux9LCKJbdg5u=w1052-h592-rw)
+![explanationss](https://play-lh.googleusercontent.com/329FFAcozMXaAlXVHJZ47t3E2UGl3PDc5qcE4IIUbz7Xk6xxRrPH5HVER49znaIdU9g=w1052-h592-rw)
+![debugss](https://play-lh.googleusercontent.com/UE4bZNV_qZPma_uNccRy_G_USr2pf4QKzwUHYny6Ac0F6B9mTVnAnrZtjW3jN0eOOPI=w1052-h592-rw)
+![voicess](https://play-lh.googleusercontent.com/mzi5dFNjVCroSbpegcA0-K5ncOUbQIAYey6XlBoaXTTzL3oBjyvFZVQORCy_NnD2eI0=w1052-h592-rw)
+![historyss](https://play-lh.googleusercontent.com/38a5OqOGsiQ0ANlTmu07ETNwCAFDhm9etnrEsSWxQUpAFfq_dXxoaBi9mHORRjeSlvw=w1052-h592-rw)
+![drawerss](https://play-lh.googleusercontent.com/rm-Z4lG1yU6XbUqKi0pIpaN_7qHJ5HbbM0WejbIGNSRNYfurKvtWjIicCr1wwJ3rEg=w1052-h592-rw)
