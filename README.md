@@ -78,7 +78,7 @@ Think of **Photocode** as your personal programming assistant capable of providi
 + Improved code debug analysis
 + Improved animations
 
-## Screenshots
+## Phone screenshots
 ![camerass](https://play-lh.googleusercontent.com/zScG21Ol4GBOAhz1TcnGBYAUQOO3M95PGPbRBHHrQdRfpdwmi13y-9AQhbzk6mK2d8E=w1052-h592-rw)
 ![cropss](https://play-lh.googleusercontent.com/iDv9yn5l7hKijr2Wl7xWkUe8SaMPXDg_TtHDbxO2HZkCO5bGEYrUtJu7ux9LCKJbdg5u=w1052-h592-rw)
 ![explanationss](https://play-lh.googleusercontent.com/329FFAcozMXaAlXVHJZ47t3E2UGl3PDc5qcE4IIUbz7Xk6xxRrPH5HVER49znaIdU9g=w1052-h592-rw)
@@ -86,3 +86,10 @@ Think of **Photocode** as your personal programming assistant capable of providi
 ![voicess](https://play-lh.googleusercontent.com/mzi5dFNjVCroSbpegcA0-K5ncOUbQIAYey6XlBoaXTTzL3oBjyvFZVQORCy_NnD2eI0=w1052-h592-rw)
 ![historyss](https://play-lh.googleusercontent.com/38a5OqOGsiQ0ANlTmu07ETNwCAFDhm9etnrEsSWxQUpAFfq_dXxoaBi9mHORRjeSlvw=w1052-h592-rw)
 ![drawerss](https://play-lh.googleusercontent.com/rm-Z4lG1yU6XbUqKi0pIpaN_7qHJ5HbbM0WejbIGNSRNYfurKvtWjIicCr1wwJ3rEg=w1052-h592-rw)
+
+## Tablet screenshots
+![tcamerass](https://play-lh.googleusercontent.com/WAjrwWV-FV603G5xzgZWEpfwNN1MKEANUaXpCKRlqroHiUkFg17q_k0ESSUtJN1Gr3wo=w1052-h592-rw)
+![tcropss](https://play-lh.googleusercontent.com/zUZ79UEmMMP6HLMOVWs_BqL_5MGZWI1aGfPUpderjCcZE85H3egoXgDXVaCsaDC2Yjk=w1052-h592-rw)
+![texplanationss](https://play-lh.googleusercontent.com/L8TSJZuHo-fS-xPeT-aRn72tc6oCDPTprfNZ7oHL1Wfxh5uh9E53f78XsWG7VPGijKY=w1052-h592-rw)
+![thistoryss](https://play-lh.googleusercontent.com/xg8MlaanCyhKbFq8hFuG5Q7b1JWG2LG2ojk70elXilprOZTa1JH2MvdtPMdmFhJCLKgx=w1052-h592-rw)
+![tdrawerss](https://play-lh.googleusercontent.com/c2YHcaM_WSF4VpaS7cWmnNycUkNqPY7GYWNClInDpXw7PUFYcwDeqoAWSPHMTRDaQQ=w1052-h592-rw)
