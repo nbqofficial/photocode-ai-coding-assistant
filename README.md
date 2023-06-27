@@ -61,6 +61,9 @@ Think of **Photocode** as your personal programming assistant capable of providi
 + Voice explanation feature
 + Sharing analysis on all major platforms
 + Saving analyses to history for later review
++ Bookmarks feature
++ Programming language filtering feature
++ Light and dark mode
 
 ### v2.0
 + Added debug analysis feature
