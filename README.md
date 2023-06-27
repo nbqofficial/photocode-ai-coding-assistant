@@ -1,5 +1,5 @@
 ![photocodelogo](https://play-lh.googleusercontent.com/Kue6Rb2qWia7FXfi1I3eCTbCMRjdL6f0Gr__4vJFSAS1GUE603mLZZTHSxB7QydTIvyI=w480-h960-rw)
-# Photocode
+# Photocode: AI coding assistant (v2.1)
 Using the power of artificial intelligence to explain and debug any source code
 #### Available now on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode)
 
@@ -52,6 +52,31 @@ You can easily share your code explanations, along with a photo of the code, wit
 
 ## Goal
 Think of **Photocode** as your personal programming assistant capable of providing definitive and detailed analysis, debug and offer optimization ideas for any given source code regardless of it's complexity. Using **Photocode** allows the developer to focus entirely on the creative side of things, and letting your AI assistant do all the analysis and optimizations for you. This should greatly increase overall productivity and boost the quality of your code. **Photocode** also allows sharing your code analysis via many popular platforms. This can be very helpful for professors and students, or project managers because it can assist them with teaching and/or checking submitted code. Currently only available on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode), but soon coming to App store as well. If you are interested in this project, show support by downloading and testing the app for yourself. Feel free to leave your honest reviews and suggestions on how to improve the app.
+
+## Changelog
+### v1.0
++ Explains source code from photos (camera or gallery)
++ Detects programming languages
++ Explanations available on over twenty languages
++ Voice explanation feature
++ Sharing analysis on all major platforms
++ Saving analyses to history for later review
+
+### v2.0
++ Added debug analysis feature
++ Added progress statistics
++ Added ad reduction with each level reached
++ Improved animations
++ Fixed photo sharing bug
++ Removed unused settings
++ Optimized language syntax recognition
++ Increased available code size
+
+### v2.1
++ Dramatically reduced ads to improve user experience
++ Increased available code size
++ Improved code debug analysis
++ Improved animations
 
 ## Screenshots
 ![camerass](https://play-lh.googleusercontent.com/zScG21Ol4GBOAhz1TcnGBYAUQOO3M95PGPbRBHHrQdRfpdwmi13y-9AQhbzk6mK2d8E=w1052-h592-rw)
