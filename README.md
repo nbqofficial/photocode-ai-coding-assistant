@@ -1,5 +1,5 @@
 ![photocodelogo](https://play-lh.googleusercontent.com/Kue6Rb2qWia7FXfi1I3eCTbCMRjdL6f0Gr__4vJFSAS1GUE603mLZZTHSxB7QydTIvyI=w480-h960-rw)
-# Photocode: AI coding assistant (v2.1)
+# Photocode: AI coding assistant (v2.2.0)
 Using the power of artificial intelligence to explain and debug any source code
 #### Available now on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode)
 
