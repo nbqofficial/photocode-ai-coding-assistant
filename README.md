@@ -54,7 +54,7 @@ You can easily share your code explanations, along with a photo of the code, wit
 Think of **Photocode** as your personal programming assistant capable of providing definitive and detailed analysis, debug and offer optimization ideas for any given source code regardless of it's complexity. Using **Photocode** allows the developer to focus entirely on the creative side of things, and letting your AI assistant do all the analysis and optimizations for you. This should greatly increase overall productivity and boost the quality of your code. **Photocode** also allows sharing your code analysis via many popular platforms. This can be very helpful for professors and students, or project managers because it can assist them with teaching and/or checking submitted code. Currently only available on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode), but soon coming to App store as well. If you are interested in this project, show support by downloading and testing the app for yourself. Feel free to leave your honest reviews and suggestions on how to improve the app.
 
 ## Changelog
-### v1.0
+### v1.0.0
 + Explains source code from photos (camera or gallery)
 + Detects programming languages
 + Explanations available on over twenty languages
@@ -65,7 +65,7 @@ Think of **Photocode** as your personal programming assistant capable of providi
 + Programming language filtering feature
 + Light and dark mode
 
-### v2.0
+### v2.0.0
 + Added debug analysis feature
 + Added progress statistics
 + Added ad reduction with each level reached
@@ -75,10 +75,16 @@ Think of **Photocode** as your personal programming assistant capable of providi
 + Optimized language syntax recognition
 + Increased available code size
 
-### v2.1
+### v2.1.0
 + Dramatically reduced ads to improve user experience
 + Increased available code size
 + Improved code debug analysis
++ Improved animations
+
+### v2.2.0
++ Removed long video ads completely to improve user experience
++ Added checking for updates popup
++ Improved code explanation analysis
 + Improved animations
 
 ## Phone screenshots
