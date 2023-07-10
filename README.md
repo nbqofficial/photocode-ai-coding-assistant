@@ -5,7 +5,7 @@ Using the power of artificial intelligence to explain and debug any source code
 #### Check out the [website](https://www.thephotocode.com)
 #### Follow us on [Instagram](https://www.instagram.com/photocode.ai/)
 
-[vid](https://www.youtube.com/watch?v=tndCA6Jy9TA&ab_channel=nbq)
+[![Watch the video](https://img.youtube.com/vi/tndCA6Jy9TA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tndCA6Jy9TA)
 
 ## About
 **Photocode** is a powerful tool designed to help users understand source code using artificial intelligence. With **Photocode**, you can simply take a photo of the code or select it from your gallery, and the AI ​​will analyze and explain the code to you. **Photocode** can recognize even a handwritten code on a piece of paper. **Photocode** can also help you debug your code and suggest optimizations. It supports more than a dozen popular programming languages ​​and can provide explanations in more than twenty human languages.
