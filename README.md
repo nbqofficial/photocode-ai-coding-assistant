@@ -5,6 +5,7 @@ Using the power of artificial intelligence to explain and debug any source code
 #### Check out the [website](https://www.thephotocode.com)
 #### Follow us on [Instagram](https://www.instagram.com/photocode.ai/)
 
+## Check out official promo video
 [![Watch the video](https://img.youtube.com/vi/tndCA6Jy9TA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tndCA6Jy9TA)
 
 ## About
