@@ -2,6 +2,7 @@
 # Photocode: AI coding assistant (v2.3.0)
 Using the power of artificial intelligence to explain and debug any source code
 #### Available now on [Google play](https://play.google.com/store/apps/details?id=com.thephotocode.photocode)
+#### Check out the [website](https://www.thephotocode.com)
 #### Follow us on [Instagram](https://www.instagram.com/photocode.ai/)
 
 ## About
